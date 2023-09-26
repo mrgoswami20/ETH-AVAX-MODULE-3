@@ -1,4 +1,4 @@
-# ETH-AVAX-MODULE-3
+# Simple-ERC20-NFT
 
 This is a simple smart contract to create your own token on a local HardHat network. The contract owner should be able to mint tokens to a provided address. Any user should be able to burn and transfer tokens.
 
